@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="YOUR_RAW_URL" height="200" alt="Girl coding illustration" />
-</p>
+
 <h1 align="center">Hi 👋, I'm Chathuri <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <p align="center"><b>Passionate IT Student at Faculty of Information Technology, University of Moratuwa</b></p>
