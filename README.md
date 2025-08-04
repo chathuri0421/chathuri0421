@@ -51,10 +51,10 @@
 
 ### 🐱 My GitHub Stats:
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=chathuri0421&theme=react&show_icons=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathuri0421&theme=react&layout=compact" />
-</p>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathuri0421&theme=react&layout=compact" />
+</div>
 
 ---
 
